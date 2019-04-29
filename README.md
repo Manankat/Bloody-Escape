@@ -16,3 +16,5 @@ Mathias Chauvineau -> Programmer
 
 
 ​If you have any advice for us, or any constructive criticism about anything ( except our programmer graphism :D ) about the game or the code, feel free to tell us :)
+
+itch.io link to the game : https://mananka.itch.io/bloodyescape
